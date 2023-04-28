@@ -6,6 +6,10 @@ Website with Python, Flask, Authentication, Databases
 
 ## How it looks?
 
+![login](https://user-images.githubusercontent.com/73942727/235217729-3126c787-6854-4c1b-9f03-dba949765ddd.png)
+![logged2](https://user-images.githubusercontent.com/73942727/235217748-4df26786-c341-4673-bdca-6d2878c795ef.png)
+![logged](https://user-images.githubusercontent.com/73942727/235217762-cbb63bb6-7dc4-48df-99e1-53cfe229c452.png)
+![sign](https://user-images.githubusercontent.com/73942727/235217802-69e15522-9408-469a-82f9-9bb885a11c61.png)
 
 
 ## Credits
